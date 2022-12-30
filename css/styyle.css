@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+
+}.basic{
+    background-color: black;
+    width: 300px;
+    padding: 30px;
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    
+
+}
